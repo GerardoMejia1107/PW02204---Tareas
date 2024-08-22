@@ -1,0 +1,38 @@
+.word_1 {
+  color: #8d8485;
+}
+
+.word_2 {
+  color: lightblue;
+}
+
+section,
+article {
+  margin-bottom: 20px;
+}
+
+main > div.celda {
+  padding: 5px;
+  border: 1px solid black;
+  background-color: #8d8485;
+}
+
+main > h2 {
+  color: chocolate;
+}
+
+main .colored {
+  color: rgb(135, 248, 103);
+}
+
+.google-link {
+  color: yellow;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2021/08/18/19/26/background-6556413_640.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
