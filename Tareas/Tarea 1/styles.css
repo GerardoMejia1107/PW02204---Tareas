@@ -25,10 +25,6 @@ li {
   width: 100%;
   max-width: 200px;
   height: auto;
-  padding: 10px;
-  border: none;
-  border-radius: 1px;
-  background-color: #a28b55;
 }
 
 .img-container img {
@@ -85,4 +81,8 @@ section article ul li > p {
 
 footer {
   padding: 20px;
+}
+
+#knowledge > article ul li {
+  list-style: square;
 }
