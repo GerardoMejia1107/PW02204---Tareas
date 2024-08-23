@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #cbe2b5;
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.container {
+  margin: 2rem 2rem 0;
+  width: max-content;
+}
+
+.img-container {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  padding: 10px;
+  border: none;
+  border-radius: 1px;
+  background-color: #a28b55;
+}
+
+.img-container img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
